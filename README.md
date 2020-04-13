@@ -5,7 +5,7 @@
 ## Sobre o desafio
 Nesse desafio, foi criado uma aplicação Node.js que permite criar, listar, atualizar e remover dados dos repositórios, e além disso permite que os repositórios possam receber "likes".
  
-**Observação**Este desafio está utilizando o gerenciador de pacotes **yarn**, sendo assim para instalar todas as dependências é necessário dar o comando `yarn` no terminal.
+**Observação**: Este desafio está utilizando o gerenciador de pacotes **yarn**, sendo assim para instalar todas as dependências é necessário dar o comando `yarn` no terminal.
 
 ### Rotas da aplicação
 
